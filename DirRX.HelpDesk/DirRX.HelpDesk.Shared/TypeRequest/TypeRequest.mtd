@@ -89,12 +89,20 @@
       "PreviousPropertyGuid": "869a3034-d7be-43c9-b1e8-c6a178d519e9"
     },
     {
+      "$type": "Sungero.Metadata.IntegerPropertyMetadata, Sungero.Metadata",
+      "NameGuid": "971519ee-7bf1-43af-93af-f9f11fcc5165",
+      "Name": "Code",
+      "Code": "Code",
+      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.NumericEditorToIntAndDoubleBinder",
+      "PreviousPropertyGuid": "6d535832-bce2-463b-a753-6d0e0f7e35d9"
+    },
+    {
       "$type": "Sungero.Metadata.StringPropertyMetadata, Sungero.Metadata",
       "NameGuid": "0173da0e-12cf-4211-92ee-ce58976635dc",
       "Name": "Note",
       "Code": "Note",
       "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.StringEditorToStringBinder",
-      "PreviousPropertyGuid": "6d535832-bce2-463b-a753-6d0e0f7e35d9"
+      "PreviousPropertyGuid": "971519ee-7bf1-43af-93af-f9f11fcc5165"
     }
   ],
   "PublicStructures": [],
