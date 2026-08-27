@@ -58,13 +58,49 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Property_Name" xml:space="preserve">
-    <value>Имя</value>
+  <data name="DisplayName" xml:space="preserve">
+    <value>External request</value>
   </data>
-  <data name="Property_Responsible" xml:space="preserve">
-    <value>Ответственный</value>
+  <data name="AccusativeDisplayName" xml:space="preserve">
+    <value>External request</value>
   </data>
-  <data name="Property_Note" xml:space="preserve">
-    <value>Примечание</value>
+  <data name="CollectionDisplayName" xml:space="preserve">
+    <value>External requests</value>
+  </data>
+  <data name="Property_Author" xml:space="preserve">
+    <value>Author</value>
+  </data>
+  <data name="Property_Result" xml:space="preserve">
+    <value>Result</value>
+  </data>
+  <data name="ControlGroup_f60bcd4eab8d4ebc93ec9cac3ba1ca7c" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_54cdbeee73894009926e2fc4f27cbce2" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_54cdbeee73894009926e2fc4f27cbce2_EmptyText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_a2714b9229a54d94b1774c01429ab752" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_3873561521114670bdb50c4f0f782936" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_3873561521114670bdb50c4f0f782936_EmptyText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_362118cddce64df998b08c203afd70ae" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_e82b25163c8d43f7bf64c07903b97ecd" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_e82b25163c8d43f7bf64c07903b97ecd_EmptyText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_47b33819453b43ed94873d39effdfe13" xml:space="preserve">
+    <value />
   </data>
 </root>
